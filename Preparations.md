@@ -362,9 +362,34 @@ receiver may miss the message when he/she is busy with something.
 * 复合句 (一个句子表达多个区间)
 
   1. The number of ......, which
-     The number of car theft ascended moderately(适度的) from 0.4 million to 1.00 million between 1970 and 1990, which soared to the maximun at 1.60 million in the following five years.
+     The number of car theft ascended moderately(适度的) from 0.4 million to 1.00 million between 1970 and 1990, which soared to the maximum at 1.60 million in the following five years.
   2. With/before/after/ in spite of / despite + 幅度(adj) + 上升/下降(n), the number of ...
-     Despite/After/With a moderate increase of 0.60 million in the first two decades, the number of car theft soared to the highedt point at 1.60 million in 1995.
+     Despite/After/With a moderate increase of 0.60 million in the first two decades, the number of car theft soared to the highest point at 1.60 million in 1995.
+
+###### 练习
+
+三条线以内一线一段. 从上往下讲.
+
+超过三条,按照相同变化趋势分/按类别分
+
+需要写明的
+
+* 起点
+  * Beginning with xxx.
+* 最高点
+* 最低点
+* 拐点
+  * However
+  * By contrast
+  * Instead
+* 相同点
+  * 线内相同: which was the same as the figure of {time}.
+* 交叉点
+
+The information in the line graph illustrates/demonstrates/displays how the xxx changed from ... to .../ between ... and ...
+
+概括地位/整体走向
+
 
 ## 大作文
 
