@@ -366,7 +366,7 @@ receiver may miss the message when he/she is busy with something.
   2. With/before/after/ in spite of / despite + 幅度(adj) + 上升/下降(n), the number of ...
      Despite/After/With a moderate increase of 0.60 million in the first two decades, the number of car theft soared to the highest point at 1.60 million in 1995.
 
-###### 练习
+###### 文章
 
 三条线以内一线一段. 从上往下讲.
 
@@ -376,6 +376,7 @@ receiver may miss the message when he/she is busy with something.
 
 * 起点
   * Beginning with xxx.
+  * There was a xxx from ...
 * 最高点
 * 最低点
 * 拐点
@@ -389,6 +390,17 @@ receiver may miss the message when he/she is busy with something.
 The information in the line graph illustrates/demonstrates/displays how the xxx changed from ... to .../ between ... and ...
 
 概括地位/整体走向
+
+结尾线与线之间做对比
+
+In conclusion, ...
+
+Over all, ...
+
+In summary/ To conclude/ To summarize, it xxx.
+
+
+![1658810042288](image/Preparations/1658810042288.png)
 
 
 ## 大作文
