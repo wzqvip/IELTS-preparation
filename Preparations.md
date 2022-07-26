@@ -121,15 +121,14 @@ spend time to figure out right/wrong.  Fotget to think by them self.
 
 special time have a special meaning for an individual.
 
-
 #### 12. 交通拥堵(NEW)
 
-##### Answer:
+##### Answer
 
 I would tallk about a time when I need to go to the city center to take an English lesson in the early morning. That was the day when I was stuck in a heavy traffic jam. Knowing that reaching the city center would go through a very busy road, so I got up early and took a bus there. Unluckily, I mistaken the time it takes to reach there. When I was just about to arrive, maybe about one block to get to the bus stop, it was totally stucked.  Nothing has caused this traffic jam but too many cars on this road. What I could hear was the horns. I felt annoying so I put on my earphones and played some of my favorite music, which can make me feel relaxed. Sitting near the window, I looked at the cars, they didn't seem to move for any. And about half an hour later, It finally arrived and definately I was late for the class. It was an unpleasent trip, and I would set out earlier the next time.
 
 
-##### **Part 3**
+##### Part3
 
 ###### 1. How can we solve the traffic jam problem?
 
@@ -152,6 +151,57 @@ I think so. That mainly because there are many traffic lights to stop cars, that
 3) to make more traffic signs;
 4) to improve public transportation system;
 5) to encourage people to take public transportation more;
+
+
+### Object and Activity
+
+#### 1. 希望养成的习惯
+
+Describe a habit your friend has and you want to develop.
+
+##### Answer
+
+China has a really long history of growing tea. Many people in my country have the habit of drinking tea. One of my friends has keeping the habit of drinking tea for nearly 10 years. She knows a lot about it, for example, she can name out nearly 20 kinds of different types of tea.
+
+I first noticed her habit in my high school. The time of high school is the busiest time for students in China. We have to stay up late and get up early to cram for good results. I usually felt sleepy at that time, sometimes, I even could fall asleep in the class. I tried to drink coffee to keep me refreshed. But I guess coffee might be too strong for me, sometimes after drinking it, my hands would shake, my heart might beat fast or I would be too excited to sit there for a long time.
+
+My friend suggested me to drink tea. I took her advice. The tea water tasted very mild. The smell of tea keeps me refreshed. After I had tried several times, I realized that tea was a perfect drink for me.  It's not strong; it keeps refreshed, but not very excited; I think it's suitable for Asian people; So I want to develop this habit.
+
+(Actually, tea is more than a drink. I know it was ever the most important products on Silk Roads. It conveys Chinese history and civilization.)
+
+
+#### 26. 用手机做重要事情(NEW)
+
+##### Answer
+
+Well, I still remember on that day, when my team were participanted in an important competition, we were presenting and displaying our slides. All of a sudden, our laptop went blank, we tried several time to figure out the problem, we tried to restart the computer, took off the battery and place it back again, after several tries, nothing had happened., Time was extremly limited, there's no enough time for us to get another cpmputer. Then, I remembered there's a Chinese soft ware called WPS, which can also display PPT slides on mobile phone, so I download our Slide form qq gruop, and used WPS to . Surprisingly, it worked, and i used the screen sharing to prenent the slides to the judgers, . The rest part of .was quite a success, and we had won the 3rd prize in that competation, my mobile phone played an imp.
+
+##### Part 3
+
+###### 1. What do you usually do with a cellphone?
+
+  A lot of things. To kill time, like to watch videos, to play phone games, to chat with friends. To have online class, to search information, etc. To shop online with Taobao, Jingdong, etc.
+
+###### 2. What are the differences between young people and old people when using a cellphone?
+
+Young: use more functions; like to shop; socialize; book ticket; search information;
+
+Old: make video call with others; some old people may shop online;
+
+###### 3. Which one is more important, using a cellphone to make phone calls or to read messages?
+
+make phone calls, because that's what phones are initally designed for. Also, phone calls are more efficient and reliable, making phone calls rather than sending messages will make the one know instantly during an important occations.
+
+to make phone calls, .... can pass messages more instant.; formal;
+
+receiver may miss the message when he/she is busy with something.
+
+###### 4. Do you think there should be a law to stop people from making phone calls in public?
+
+  I think to make a law is too much. It's a kind of public manner for people to stop making phone calls in public. We should improve people's self-disciplines to change that point.
+
+
+
 
 ## 大作文
 
