@@ -169,6 +169,96 @@ My friend suggested me to drink tea. I took her advice. The tea water tasted ver
 
 (Actually, tea is more than a drink. I know it was ever the most important products on Silk Roads. It conveys Chinese history and civilization.)
 
+##### Part 3
+
+###### 1. What habits should children have?
+
+....should shape some good habits when they are young; ensure they with good health/ good development;
+
+to get up early; to do reading; to put away toys; to be punctual/on time; to do some preparation before doing sth.; to keep their promises;   punctuality
+
+###### 2. What should parents do to teach their children good habits?
+
+parents:
+
+1. tell them why should people develop good habits;
+2. keep good habits firstly; set good examples;
+3. be strict to help children to form some good habits.
+
+###### 3. What influences do children with bad habits have on other children?
+
+  ...will learn from each other; but by comparison, bad habits are easy to form/shape;
+
+with the influences of those children with bad habits, other children may no long obey regulations/manners/rules;
+
+Some bad habits can have influences on other children's attitude towards study, health, value and so on.
+
+###### 4. Why do some habits change when people get older?
+
+physical energy/ health: don't have good energy to stay up late; give up smoking or drinking because of health problem;
+
+
+#### 2. 困难的决定
+
+Describe a difficult desicion that you once made.
+
+> When I was in the first year of high school, I met my first difficult decision in my school life, it was to choose to study arts or sciences;
+
+> It will related to my future major in university and future job option;
+>
+> Before made the decision: compared the 9 subjects I was studying;
+>
+> I was not good at physics and politics; politics is a main subject of arts; physics belongs to science; that made the decision more difficult to make;
+>
+> I didn't have obvious preference on arts or science, so I used the ranking of arts and sciences to decide my subject.
+
+---
+
+People probably have changed their plans for various reasons. Recently, I changed my future study plan. To be honest, it was a big change for me.
+
+   In the three days, from 6^th^ to 9^th^ in June, I attended the university entrance exam. The result was not as good as I had expected, but still not bad. Then I applied my ideal university and I was enrolled.
+
+ In China, the university admission policies are different from most of other countries. Students who have passed the enrollment cut-off score/line still have few options to apply the majors that they are interested in.
+
+Actually, I was enrolled by a major called International Trade which I totally knew nothing about. So I didn't think I could have motivation to go further study in that filed.  After discussing with my parents, I decided to study abroad.
+
+I felt changing my study plan was a good decision. Coz I wanted to follow my heart. And also, I felt so grateful for my parents' support. You know, the oversea university tuition fee is a burden for a family. So I'll try my hard to start an independent life. Well, homesickness is another thing I should concern.
+
+
+
+##### Part 3
+
+###### 1.What decisions do people usually make in their daily lives?
+
+daily routines;
+
+to get up early or late; to dress what; to eat what; on what time to go out;
+
+###### 2. Which is easier, making a decision by yourself or making a decision after group discussion?
+
+That should depend on how big the responsibility I should take after making the decision. For example, the decision about a project or a work, ...
+
+Private stuff: like to make decision by myself; make me to be confident;
+
+I prefer to make a decision by myself. Because, having a group discussion with others, they may come up with different ideas; it will be hard for me to choose;
+
+I like to to make a decision after a group discussion. Because I can't consider overall; not confident enough to make a decision; not decisive;
+
+###### 3. Why are many young people unwilling to follow their parents' advice?
+
+1) They are grown-up; they are mature and capable enough to make decisions by themselves; have their own ideas
+2) parents control them too much
+3) generation gap: parents may old-fashioned; can't catch up with the trend;
+4) young people are eager to have chance to make decision;
+
+###### 4. Why would middle-aged people tend to second-guess their own decisions?
+
+middle-aged: have to take the responsibility of nurturing their young children and take care of old generation as well; so they have much pressure and burden from life; make them cautious to make decisions; sometimes, they may can't take the bad consequence; so... second-guess....
+
+not decisive;
+
+have experienced many things: can foresee something;
+
 
 #### 26. 用手机做重要事情(NEW)
 
