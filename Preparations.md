@@ -350,14 +350,19 @@ receiver may miss the message when he/she is busy with something.
 ###### 句型
 
 * 简单句(用于描述一个数据)
-  1. The number of +n.+ 上升/下降 + 幅度(adv) + 数据(to/by) + 时间区间.
-     例句: The number of car theft ascend/(went up) steadily to 1.00 million in the first two decades.
+  1. The number of +n.+ 上升/下降(n) + 幅度(adv) + 数据(to/by) + 时间区间.
+     例句: The number of car theft ascended/(went up) steadily to 1.00 million in the first two decades.
   2. The number of +n. + experienced/underwent/presented a/an + 幅度(adj) + 上升/下降(n) + 数据 + 时间
      例句: The number of car theft experenced a dramatic/significant accent at 1.60 million in the following 5 years..
-  3. There was/appeared a/an + 幅度(adj) + 上升/下降 + 数据 + in the number of + sth. + 时间
+  3. There was/appeared a/an + 幅度(adj) + 上升/下降(n) + 数据 + in the number of + sth. + 时间
      例句: There was an remarkable decline of 0.60 million in the number of car theft in the last five years.
   4. 时间区间 + witnessed/saw + a/an + adj. + n. + 数据 + in the number of
      The last five years witnssed a dramatic decline in the number of 0.60 million.
+* 复合句(一个句子表达多个区间)
+  1. The number of ......, which
+     The number of car theft ascended moderately(适度的) from 0.4 million to 1.00 million between 1970 and 1990, which soared to the maximun at 1.60 million in the following five years.
+  2. With/before/after/ in spite of / despite + 幅度(adj) + 上升/下降(n), the number of ...
+     Despite/After/With a moderate increase of 0.60 million in the first two decades, the number of car theft soared to the highedt point at 1.60 million in 1995.
 
 
 ## 大作文
