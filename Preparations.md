@@ -336,9 +336,8 @@ receiver may miss the message when he/she is busy with something.
 
 ###### 1. 表变化的词
 
-
 | 上升             | 三单 | 过去式  | 名词        |
-| ------------------ | ------ | --------- | ------------- |
+| ---------------- | ---- | ------- | ----------- |
 | increase         | ~s   | ~d      | ~ (an)      |
 | rise             | ~s   | rose    | ~           |
 | grow             | ~s   | grew    | growth      |
@@ -347,9 +346,8 @@ receiver may miss the message when he/she is busy with something.
 | ascend           | ~s   | ~ed     | ascent (an) |
 | soar / surge猛增 | ~s   | ~ed     | ~           |
 
-
 | 下降        | 三单 | 过去式    | 名词      |
-| ------------- | ------ | ----------- | ----------- |
+| ----------- | ---- | --------- | --------- |
 | decrease    | ~s   | ~d        | ~         |
 | decline     | ~s   | ~d        | ~         |
 | drop        | ~s   | dropped   | ~         |
@@ -362,9 +360,8 @@ receiver may miss the message when he/she is busy with something.
 
 ###### 2. 表幅度的词
 
-
 | 大幅度 | adj          | adv           |
-| -------- | -------------- | --------------- |
+| ------ | ------------ | ------------- |
 |        | significant  | siginficantly |
 |        | remarkable   | remarkably    |
 |        | considerable | considerably  |
@@ -375,16 +372,14 @@ receiver may miss the message when he/she is busy with something.
 |        | sharp        | sharply       |
 |        | rapid        | rapidly       |
 
-
 | 中等稳步 | adj      | adv        |
-| ---------- | ---------- | ------------ |
+| -------- | -------- | ---------- |
 |          | moderate | moderately |
 |          | stable   | stably     |
 |          | steady   | steadily   |
 
-
 | 小幅度 | adj     | adv       |
-| -------- | --------- | ----------- |
+| ------ | ------- | --------- |
 |        | slow    | slowly    |
 |        | gradual | gradually |
 |        | slight  | slightly  |
@@ -470,7 +465,7 @@ exceed / overtake / surpass by
 
 * meanwhile
 * at the same time
-* in the mantime
+* in the meantime.
 
 ###### 17. 同样地
 
@@ -521,11 +516,21 @@ exceed / overtake / surpass by
 
 ###### 23. 特殊数据
 
+| data | describe                                        |
+| ---- | ----------------------------------------------- |
+| 0%   | none                                            |
+| 10%  | one in ten                                      |
+| 25%  | a quarter of                                    |
+| 33%  | a third                                         |
+| 50%  | half                                            |
+| 66%  | two thirds                                      |
+| 75%  | three quarters                                  |
+| 90%  | one out of ten<br />an overwhelming majority of |
 
-| data | describe   |  |
-| ------ | ------------ | -- |
-| 0%   | none       |  |
-| 10%  | one in ten |  |
+###### 24. 引出特殊数据
+
+* It is worth mentioning that ...
+* Interestingly
 
 ###### 句型
 
