@@ -353,7 +353,7 @@ receiver may miss the message when he/she is busy with something.
   1. The number of +n.+ 上升/下降 + 幅度(adv) + 数据(to/by) + 时间区间.
      例句: The number of car theft ascended/()went up) smoothly/steadily to 1.00 million in the first two decades.
   2. The number of +n. + experienced/underwent/presented a/an + 幅度(adj) + 上升/下降(n) + 数据
-
+     例句: The number ofc
 
 
 ## 大作文
