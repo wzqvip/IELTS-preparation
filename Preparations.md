@@ -97,26 +97,21 @@ natrually, didn't think a lot.
 * Then he have fun
 * He's apprecite.
 
-
-
 ##### Part 3
 
 ###### 1. Do you often help kids? How?
 
+Not quite often, cause there's not many children in my neighborhood. But I remenber sometimes in a park or on the street, I may...'
 
+###### 2. Why is it necessary to do volunteer services?
 
-###### 2. Why is it necessary to do volunteer services? 
-
-
+Social conscience.
 
 ###### 3. What can schoole do to develop students' awareness of volunteering?
 
-
-
 ###### 4. Who benefit more from the volunteer services, the volunteers or the prople helped?
 
-
-
+It's hard to say, because both of them have gained something during the volunteer jobs.
 
 P3.3
 
@@ -131,8 +126,7 @@ special time have a special meaning for an individual.
 
 ##### Answer:
 
-I would tallk about a time when I need to go to the city center to take an English lesson in the early morning. That was the day when I was stuck in a heavy traffic jam. Knowing that reaching the city center would go through a very crowded road, so I got up early and 
-
+I would tallk about a time when I need to go to the city center to take an English lesson in the early morning. That was the day when I was stuck in a heavy traffic jam. Knowing that reaching the city center would go through a very crowded road, so I got up early and took a I bus there. Unluckily, I mistaken the time it takes to get there. When I was just about to get there, maybe about one block to get to the bus stop, it was totally stucked.  Nothing has caused this traffic jam but too many cars on this road. What I could hear was the horns. I felt annoying so I put on my earphones and played some of my favorite music, which can make me feel relaxed. Sitting near the window, I looked at the cars, they didn't seem to move for any. And about half an hour later, It finally arrived and definately I was late for the class. It was an unpleasent trip, and I would set out earlier the next time.
 
 ## 大作文
 
