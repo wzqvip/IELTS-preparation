@@ -400,7 +400,10 @@ Over all, ...
 In summary/ To conclude/ To summarize, it xxx.
 
 
-![1658810042288](image/Preparations/1658810042288.png)
+![Page 12](image/Preparations/1658810042288.png "Line Chart")
+
+
+
 
 
 ## 大作文
