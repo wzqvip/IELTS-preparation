@@ -126,7 +126,32 @@ special time have a special meaning for an individual.
 
 ##### Answer:
 
-I would tallk about a time when I need to go to the city center to take an English lesson in the early morning. That was the day when I was stuck in a heavy traffic jam. Knowing that reaching the city center would go through a very crowded road, so I got up early and took a I bus there. Unluckily, I mistaken the time it takes to get there. When I was just about to get there, maybe about one block to get to the bus stop, it was totally stucked.  Nothing has caused this traffic jam but too many cars on this road. What I could hear was the horns. I felt annoying so I put on my earphones and played some of my favorite music, which can make me feel relaxed. Sitting near the window, I looked at the cars, they didn't seem to move for any. And about half an hour later, It finally arrived and definately I was late for the class. It was an unpleasent trip, and I would set out earlier the next time.
+I would tallk about a time when I need to go to the city center to take an English lesson in the early morning. That was the day when I was stuck in a heavy traffic jam. Knowing that reaching the city center would go through a very busy road, so I got up early and took a bus there. Unluckily, I mistaken the time it takes to reach there. When I was just about to arrive, maybe about one block to get to the bus stop, it was totally stucked.  Nothing has caused this traffic jam but too many cars on this road. What I could hear was the horns. I felt annoying so I put on my earphones and played some of my favorite music, which can make me feel relaxed. Sitting near the window, I looked at the cars, they didn't seem to move for any. And about half an hour later, It finally arrived and definately I was late for the class. It was an unpleasent trip, and I would set out earlier the next time.
+
+
+##### **Part 3**
+
+###### 1. How can we solve the traffic jam problem?
+
+1) to complete transportation system
+2) to implement staggered shifting(单双号限行) on traffic system;
+3) to encourage people to take public transportation;
+
+###### 2. Do you think developing public transport can solve traffic jam problems?
+
+Yes, I think so. Private cars occupy much more space on the road than public transportation to transport the same amount of people. And some private cars sometimes pull over casually, to some extent, that can increase traffic jam problems.
+
+###### 3. Do you think the high ways will help reduce traffic jams?
+
+I think so. That mainly because there are many traffic lights to stop cars, that will reduce traffic jams more or less. Drivers can't pull over casually on the high ways. What's more, there aren't pedestrians on the high ways, that can also lower down the amount of traffic jams.
+
+###### 4. What are good ways to manage traffic?
+
+1) to part the pavements from the drive lanes and bicycle lanes;
+2) to set more traffic lights;
+3) to make more traffic signs;
+4) to improve public transportation system;
+5) to encourage people to take public transportation more;
 
 ## 大作文
 
