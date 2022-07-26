@@ -127,7 +127,6 @@ special time have a special meaning for an individual.
 
 I would tallk about a time when I need to go to the city center to take an English lesson in the early morning. That was the day when I was stuck in a heavy traffic jam. Knowing that reaching the city center would go through a very busy road, so I got up early and took a bus there. Unluckily, I mistaken the time it takes to reach there. When I was just about to arrive, maybe about one block to get to the bus stop, it was totally stucked.  Nothing has caused this traffic jam but too many cars on this road. What I could hear was the horns. I felt annoying so I put on my earphones and played some of my favorite music, which can make me feel relaxed. Sitting near the window, I looked at the cars, they didn't seem to move for any. And about half an hour later, It finally arrived and definately I was late for the class. It was an unpleasent trip, and I would set out earlier the next time.
 
-
 ##### Part3
 
 ###### 1. How can we solve the traffic jam problem?
@@ -151,7 +150,6 @@ I think so. That mainly because there are many traffic lights to stop cars, that
 3) to make more traffic signs;
 4) to improve public transportation system;
 5) to encourage people to take public transportation more;
-
 
 ### Object and Activity
 
@@ -197,7 +195,6 @@ Some bad habits can have influences on other children's attitude towards study, 
 
 physical energy/ health: don't have good energy to stay up late; give up smoking or drinking because of health problem;
 
-
 #### 2. 困难的决定
 
 Describe a difficult desicion that you once made.
@@ -225,7 +222,6 @@ In China, the university admission policies are different from most of other cou
 Actually, I was enrolled by a major called International Trade which I totally knew nothing about. So I didn't think I could have motivation to go further study in that filed.  After discussing with my parents, I decided to study abroad.
 
 I felt changing my study plan was a good decision. Coz I wanted to follow my heart. And also, I felt so grateful for my parents' support. You know, the oversea university tuition fee is a burden for a family. So I'll try my hard to start an independent life. Well, homesickness is another thing I should concern.
-
 
 ##### Part 3
 
@@ -260,7 +256,6 @@ not decisive;
 
 have experienced many things: can foresee something;
 
-
 #### 3. 自行车/摩托车/汽车旅行
 
 Describe a bicycle/motorcycle/car trip you ***would like*** to go.
@@ -276,8 +271,6 @@ I've browsed some travel websites. They all said that the best time to go to Inn
 Inner Mongolia has very low population density. The public transportation is not very good in some (rural) places, but those places have the best natural sites, so it's better to go there by private car. That's one of the reasons why I'd like have a car trip there. Besides, I plan to have some camping there; so we need to take more belongings like camping tents, picnic tables and so on. That's the other reason why...
 
 Carnivore; carnival; drive license;
-
-
 
 #### 4. 想学的一项有趣的技能
 
@@ -299,14 +292,11 @@ I want to develop a kind of defensive skill -- called Aikido. I first knew about
 
 Now, I'm outgoing, and I think it's necessary for girls to learn some defensive skills to protect ourselves. And aikido doesn't require much on strength, it's suitable for girls. If I have this skill, it will be....
 
-
 > Tai Chi / Shadow Boxing
 >
 > Tai Chi is an ancient Chinese internal martial art system, which combines profound principles, theories and martial art techniques. The slow, soft and continuously flowing movements appear mysterious on the surface. However, it is the cultivation of one's internal energy, mind and the physical body that make it so unique and challenging. To generate relaxation, Tai Chi practice requires a deep level of concentration and a focused mind, thus allowing the mind to lead and guide the body's energy.
 >
 > Tai Chi is not only a martial art, but has also been widely acknowledged as being an effective health exercise. Whether Tai Chi is practiced for health, as athletic sport or martial art it takes time, patience and qualitative practice to develop Tai Chi's internal properties. To achieve a high standard in Tai Chi training is a highly complex process.
-
-
 
 #### 26. 用手机做重要事情(NEW)
 
@@ -338,14 +328,204 @@ receiver may miss the message when he/she is busy with something.
 
   I think to make a law is too much. It's a kind of public manner for people to stop making phone calls in public. We should improve people's self-disciplines to change that point.
 
-
 ## 小作文
 
 #### 线图
 
-
 ##### 基本语言
 
+###### 1. 表变化的词
+
+
+| 上升             | 三单 | 过去式  | 名词        |
+| ------------------ | ------ | --------- | ------------- |
+| increase         | ~s   | ~d      | ~ (an)      |
+| rise             | ~s   | rose    | ~           |
+| grow             | ~s   | grew    | growth      |
+| climb            | ~s   | ~ed     | X           |
+| go up            | ~es  | went up | X           |
+| ascend           | ~s   | ~ed     | ascent (an) |
+| soar / surge猛增 | ~s   | ~ed     | ~           |
+
+
+| 下降        | 三单 | 过去式    | 名词      |
+| ------------- | ------ | ----------- | ----------- |
+| decrease    | ~s   | ~d        | ~         |
+| decline     | ~s   | ~d        | ~         |
+| drop        | ~s   | dropped   | ~         |
+| fall        | ~s   | fell      | ~         |
+| go down     | ~es  | went down | X         |
+| reduce      | ~s   | ~d        | reduction |
+| dip缓降     | ~s   | dipped    | ~         |
+| plummet骤降 | ~s   | ~ed       | X         |
+| plunge突降  | ~s   | ~d        | X         |
+
+###### 2. 表幅度的词
+
+
+| 大幅度 | adj          | adv           |
+| -------- | -------------- | --------------- |
+|        | significant  | siginficantly |
+|        | remarkable   | remarkably    |
+|        | considerable | considerably  |
+|        | obvious      | obviously     |
+|        | apparent     | apparently    |
+|        | evident      | evidently     |
+|        | dramatic     | dramatically  |
+|        | sharp        | sharply       |
+|        | rapid        | rapidly       |
+
+
+| 中等稳步 | adj      | adv        |
+| ---------- | ---------- | ------------ |
+|          | moderate | moderately |
+|          | stable   | stably     |
+|          | steady   | steadily   |
+
+
+| 小幅度 | adj     | adv       |
+| -------- | --------- | ----------- |
+|        | slow    | slowly    |
+|        | gradual | gradually |
+|        | slight  | slightly  |
+|        | minimal | minimally |
+
+###### 3. 到达顶点
+
+* reach/arrive at a peak/maximum/ the highest point at
+* peak at
+
+###### 4. 到达底点
+
+* reach/arrive at a bottom/valley/the lowest point at~
+
+###### 5. 波动
+
+* fluctuate between ... and ...
+* fluctuation n.
+
+###### 6. 保持平稳
+
+* remain / keep / stay stable / steady / constant / unchanged at
+* reach a plateau at
+* plateau at
+* level off/out at
+* stabilize at
+* flatten out at
+
+###### 7. 超过
+
+exceed / overtake / surpass by
+
+###### 8. 分别,各自地
+
+* respective / spearate adj.
+* respectively / separately adv.
+
+###### 9. 呈现上升趋势
+
+* show / present / have a rising / an increasing trend
+* show / present / have an upward trend
+
+###### 10. 时间
+
+* from ... to ...
+* between ...  and ...
+* During(over) the period from ... to ...
+
+###### 11. 在接下来的几年里
+
+* in the next / following / subsequent 5 years
+
+###### 12. 数据
+
+* number
+* figure
+* amount
+* data
+
+###### 13. 就...来说
+
+* as for
+* as to
+* in terms of
+* with regard to
+* When it comes to ...
+
+###### 14. 总体的
+
+* overall
+
+###### 15. 大约
+
+* about
+* around
+* approximately
+* roughly
+* over 高于
+* well over 远高于
+* just over 高一点
+
+###### 16. 与此同时
+
+* meanwhile
+* at the same time
+* in the mantime
+
+###### 17. 同样地
+
+* likewise (adv)
+* similarly (adv)
+
+###### 18. 另一方面
+
+* on the other hand
+* however
+* by/in contrast
+* converserly
+* oppositely
+* unlike
+* while
+* although
+* despite
+* in spite of
+* compared with
+* different from
+* in contrast with
+
+###### 19. 表先后顺序
+
+* And then,
+* This is followed by
+* After this point,
+* Afterwards
+* ... followed by ...
+
+###### 20. 此外
+
+* What is more
+* In addition
+* More over
+* Futuremore
+
+###### 21. 表预测的单词
+
+* be expected to
+* be projected to
+* be predicted to
+
+###### 22. 表达起点
+
+* Begin with
+* Start at
+
+###### 23. 特殊数据
+
+
+| data | describe   |  |
+| ------ | ------------ | -- |
+| 0%   | none       |  |
+| 10%  | one in ten |  |
 
 ###### 句型
 
@@ -399,12 +579,7 @@ Over all, ...
 
 In summary/ To conclude/ To summarize, it xxx.
 
-
 ![Page 12](image/Preparations/1658810042288.png "Line Chart")
-
-
-
-
 
 ## 大作文
 
