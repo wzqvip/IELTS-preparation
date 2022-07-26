@@ -202,6 +202,8 @@ physical energy/ health: don't have good energy to stay up late; give up smoking
 
 Describe a difficult desicion that you once made.
 
+##### Answer
+
 > When I was in the first year of high school, I met my first difficult decision in my school life, it was to choose to study arts or sciences;
 
 > It will related to my future major in university and future job option;
@@ -216,14 +218,13 @@ Describe a difficult desicion that you once made.
 
 People probably have changed their plans for various reasons. Recently, I changed my future study plan. To be honest, it was a big change for me.
 
-   In the three days, from 6^th^ to 9^th^ in June, I attended the university entrance exam. The result was not as good as I had expected, but still not bad. Then I applied my ideal university and I was enrolled.
+In the three days, from 6^th^ to 9^th^ in June, I attended the university entrance exam. The result was not as good as I had expected, but still not bad. Then I applied my ideal university and I was enrolled.
 
- In China, the university admission policies are different from most of other countries. Students who have passed the enrollment cut-off score/line still have few options to apply the majors that they are interested in.
+In China, the university admission policies are different from most of other countries. Students who have passed the enrollment cut-off score/line still have few options to apply the majors that they are interested in.
 
 Actually, I was enrolled by a major called International Trade which I totally knew nothing about. So I didn't think I could have motivation to go further study in that filed.  After discussing with my parents, I decided to study abroad.
 
 I felt changing my study plan was a good decision. Coz I wanted to follow my heart. And also, I felt so grateful for my parents' support. You know, the oversea university tuition fee is a burden for a family. So I'll try my hard to start an independent life. Well, homesickness is another thing I should concern.
-
 
 
 ##### Part 3
@@ -251,13 +252,60 @@ I like to to make a decision after a group discussion. Because I can't consider 
 3) generation gap: parents may old-fashioned; can't catch up with the trend;
 4) young people are eager to have chance to make decision;
 
-###### 4. Why would middle-aged people tend to second-guess their own decisions?
+###### 4. Why would middle-aged people tend to second-guess(预测) their own decisions?
 
 middle-aged: have to take the responsibility of nurturing their young children and take care of old generation as well; so they have much pressure and burden from life; make them cautious to make decisions; sometimes, they may can't take the bad consequence; so... second-guess....
 
 not decisive;
 
 have experienced many things: can foresee something;
+
+
+#### 3. 自行车/摩托车/汽车旅行
+
+Describe a bicycle/motorcycle/car trip you ***would like*** to go.
+
+##### Answer
+
+ I like travelling. Being to different places bring me back a lot of good memories. And I think my horizon is also widened.
+
+And recently, I have been planning to have a car trip to Inner Mongolia. If my parents can have their annual leaves for a week, I'd like to go with them. You know, travelling with parents would be good family time; and being out with them, I can save much money on travelling.
+
+I've browsed some travel websites. They all said that the best time to go to Inner Mongolia is at the end of its summer. At late July or early August, the grass is tall and green, the sky is blue with good sunshine, the weather is moderate, and so it's the best time to ride a horse to experience the beautiful natural scenes of the  **prairie** .
+
+Inner Mongolia has very low population density. The public transportation is not very good in some (rural) places, but those places have the best natural sites, so it's better to go there by private car. That's one of the reasons why I'd like have a car trip there. Besides, I plan to have some camping there; so we need to take more belongings like camping tents, picnic tables and so on. That's the other reason why...
+
+Carnivore; carnival; drive license;
+
+
+
+#### 4. 想学的一项有趣的技能
+
+Descrbe a skill you are interested in and want to learn more about.
+
+##### Answer1
+
+There is a skill that I want to learn more, it's ice skating;
+
+When I was young in primary school, my friend took me to an ice-skating center at a weekend; he was good at it; I could roller skate, so I thought ice-skating wasn't difficult for me; but the ice was much more **slippery** than the ground; I fell down several times. The last time when I fell down, I broke my nose heavily. When I stood up, my nose couldn't stop  **bleeding(流血)** .  Then I was sent to a hospital and had an operation on my nose. After that, my parents didn't allow me to skate again.
+
+I want to continue learn it, coz I think skating is interesting. I can't run fast, so I very enjoy the **speed** that the skating brings to me.
+
+I plan to ask 2 or 3 friends who are good at skating to help me to learn. You know, last time, when I first did ice-skating, I hurt my nose. I think one friend maybe not enough to help me.And I'll go to a skating center with my friends to learn it. That's how I would like to learn.
+
+##### Answer2
+
+I want to develop a kind of defensive skill -- called Aikido. I first knew about it when I was about 10 years old in my primary school. My father thought I needed to learn a kind of sporty skill to develop my braveness. One day, he took me to an aikido studio. I saw several people were there in a circle. The coach was in the middle. When the people attacked the coach, he used some skillful techniques pulling down all of them in a minute. My father told me that the coach needn't use much strength, he only borrowed the power from the attackers. To be honest, the skill was really cool. But I had some difficulties to communicate with strangers or new people at that time, I even refused to stay with my classmates after class. Sometimes, when guests came to my home, I would stay in my room until they left. I had one aikido class, the time in that new environment with strangers made me really uncomfortable. Although I was interested in aikido, I still refused to learn it continuously.
+
+Now, I'm outgoing, and I think it's necessary for girls to learn some defensive skills to protect ourselves. And aikido doesn't require much on strength, it's suitable for girls. If I have this skill, it will be....
+
+
+> Tai Chi / Shadow Boxing
+>
+> Tai Chi is an ancient Chinese internal martial art system, which combines profound principles, theories and martial art techniques. The slow, soft and continuously flowing movements appear mysterious on the surface. However, it is the cultivation of one's internal energy, mind and the physical body that make it so unique and challenging. To generate relaxation, Tai Chi practice requires a deep level of concentration and a focused mind, thus allowing the mind to lead and guide the body's energy.
+>
+> Tai Chi is not only a martial art, but has also been widely acknowledged as being an effective health exercise. Whether Tai Chi is practiced for health, as athletic sport or martial art it takes time, patience and qualitative practice to develop Tai Chi's internal properties. To achieve a high standard in Tai Chi training is a highly complex process.
+
 
 
 #### 26. 用手机做重要事情(NEW)
