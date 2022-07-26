@@ -38,7 +38,7 @@ Well, sure. My hometown, Jinan,is a beautiful city surrounded by mountains in th
 
 Well, no. At present, i'm studying in an University in Shanghai. And i only come back to here, my hometown, on vacations. If everything goes well, i would go for further study and may not continue to living in Jinan. Maybe in the future I will seek for a job in some of the major citys like Shanghai or Shenzhen. And then i will come there much less frequently.
 
-### 2. Home/Accommodation
+#### 2. Home/Accommodation
 
 ###### 1. Can you describe the place where you live?
 
@@ -338,6 +338,21 @@ receiver may miss the message when he/she is busy with something.
 
   I think to make a law is too much. It's a kind of public manner for people to stop making phone calls in public. We should improve people's self-disciplines to change that point.
 
+
+## 小作文
+
+#### 线图
+
+
+##### 基本语言
+
+
+###### 句型
+
+* 简单句(用于描述一个数据)
+  1. The number of +n.+ 上升/下降 + 幅度(adv) + 数据(to/by) + 时间区间.
+     例句: The number of car theft ascended/()went up) smoothly/steadily to 1.00 million in the first two decades.
+  2. The number of +n. + experienced/underwent/presented a/an + 幅度(adj) + 上升/下降(n) + 数据
 
 
 
