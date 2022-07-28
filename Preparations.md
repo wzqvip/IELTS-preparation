@@ -691,15 +691,27 @@ In summary/ To conclude/ To summarize, it xxx.
 
 ![Page 12](image/Preparations/1658810042288.png "Line Chart")
 
+
+
+
+
+
+
+
 ##### 多图题
 
 ![1658976434947](image/Preparations/1658976434947.png "2015.6.27真题")
 
+
 ![1658977162433](image/Preparations/1658977162433.png "2016.3.5")
+
 
 ![1658977728943](image/Preparations/1658977728943.png "2015.10.24")
 
 > Note: More informations hiding in the lines.
+
+
+
 
 ###### 结构
 
@@ -707,11 +719,14 @@ In summary/ To conclude/ To summarize, it xxx.
 
 寻找图与图之间的联系与逻辑
 
+
 先快后慢: which became more gradual / slowed down
 
 先慢后快: which became more significant / speed up
 
+
 #### 饼图 (静图)
+
 
 ##### 静态图语言丰富方法
 
@@ -757,6 +772,7 @@ In summary/ To conclude/ To summarize, it xxx.
 
 ##### 句型
 
+
 1. 简单句
    1. In American people's expenditure, food took up the maximum with/at 44%.
    2. ..... which was nearly a half of the total(44%).
@@ -771,6 +787,7 @@ In summary/ To conclude/ To summarize, it xxx.
    3. In the second place was/is xxx
    4. xxx rank the second
 
+
 ##### 内容
 
 * 最大值
@@ -781,6 +798,8 @@ In summary/ To conclude/ To summarize, it xxx.
 * 计算总值
 * 计算平均值
 
+
+
 ##### Example
 
 ![1658978756323](image/Preparations/1658978756323.png)
@@ -788,20 +807,21 @@ In summary/ To conclude/ To summarize, it xxx.
 1. There is a pie chart which compares the career choices of art graduates.
 2. According to the first pie chart, / As can be seen from the second pie chart/ As/When it comes to xxx.
 
+
 There is a pie chart which compares the career choices of art graduates. Of all the choices, the career of being an artist occupied the most, at a rate of one-third. Working in the advertisement industry is the second popular choice, whose proportion was nearly a quarter. It is followed by the Filming and Designing industries, which show a similar preference at about 15%. Last but not the least, those choices which did not mention on this graph, were about half of the number of the choices to work in the museum, which was the second last choice.
+
 
 > The maximum of arts graduates chooses artists as their occupation, which occupies nearly a third of the total. In the second plate is the number of graduates who want to work in advertising, whose proportion is 9% less than that of artists. In addition, the preference of the graduates selecting film and design is quite similar, constituting 15% and 16% each. By contrast, the least number of graduates work in the museum and other fields, which took up 12% together.
 
+
+
+
 ##### 无时间改变的柱图转变为饼图
+
 
 1. There is a bar chart which compares the preference to different subjects of 60 students in two school.
 2. Majority of students in school A . Second least popular.
 
-##### 无时间的表格
-
-横看竖看,信息量大的放中间,信息量小的放结尾.
-
-![1658982663109](image/Preparations/1658982663109.png)
 
 ## 大作文
 
