@@ -706,7 +706,7 @@ In summary/ To conclude/ To summarize, it xxx.
 ![1658977162433](image/Preparations/1658977162433.png "2016.3.5")
 
 
-![1658977728943](image/Preparations/1658977728943.png)
+![1658977728943](image/Preparations/1658977728943.png "2015.10.24")
 
 > Note: More informations hiding in the lines.
 
@@ -718,6 +718,105 @@ In summary/ To conclude/ To summarize, it xxx.
 开头段分图描述
 
 寻找图与图之间的联系与逻辑
+
+
+先快后慢: which became more gradual / slowed down
+
+先慢后快: which became more significant / speed up
+
+
+#### 饼图 (静图)
+
+
+##### 静态图语言丰富方法
+
+* 表示比例的
+  * proportion
+  * portion
+  * percentage
+  * distribution
+  * breakdown
+* 表占据的
+  * Occupy
+  * takeup
+  * account for
+  * make up
+  * constitute
+  * coprise
+  * represent
+* 表最大值的词
+  * The maximum
+  * The largest proportion / breakdown / distribution / percentage
+  * the overwhelming majority
+  * the most dominant
+  * Top the first
+  * Rank the first
+* 表最小值的词
+  * THe minimum
+  * the smallest proportion / breakdown / distribution / percentage
+  * a minority of the number
+* 表倍数
+  * A was 6 times as adj/much/many as B
+  * A was double that of B
+  * A was triple that of B
+* 表相似或相等
+  * A was similar to B
+  * A showed the same data as B
+  * A was the same as B
+  * A was matched
+  * ．．．
+* 表剩下的
+  * The remainder was
+  * The rest
+  * The remaining + n ...... was/were
+
+##### 句型
+
+
+1. 简单句
+   1. In American people's expenditure, food took up the maximum with/at 44%.
+   2. ..... which was nearly a half of the total(44%).
+   3. ......., doing -> being/taking up nearly ....
+   4. The maximum was constitited by food, whose proportion was nearly a half.
+   5. Americans spent/allocated/distributed (nearly)most/half of their income/salary in buying food.
+   6. It was/is + 强调成分 + that ...
+      It was buying food that Americans spent most of their income, whose proportion was nearly a half.
+2. 复杂句
+   1. .......(大), which was followed by +n. + spend on cars(23%),
+   2. followed by..
+   3. In the second place was/is xxx
+   4. xxx rank the second
+
+
+##### 内容
+
+* 最大值
+* 最小值
+* 第二大值
+* 概括(剩下的占据xxx)
+* 相似值
+* 计算总值
+* 计算平均值
+
+
+
+##### Example
+
+![1658978756323](image/Preparations/1658978756323.png)
+
+1. There is a pie chart which compares the career choices of art graduates.
+2. According to the first pie chart, / As can be seen from the second pie chart/ As/When it comes to xxx.
+
+
+There is a pie chart which compares the career choices of art graduates. Of all the choices, the career of being an artist occupied the most, at a rate of one-third. Working in the advertisement industry is the second popular choice, whose proportion was nearly a quarter. It is followed by the Filming and Designing industries, which show a similar preference at about 15%. Last but not the least, those choices which did not mention on this graph, were about half of the number of the choices to work in the museum, which was the second last choice.
+
+
+> The maximum of arts graduates chooses artists as their occupation, which occupies nearly a third of the total. In the second plate is the number of graduates who want to work in advertising, whose proportion is 9% less than that of artists. In addition, the preference of the graduates selecting film and design is quite similar, constituting 15% and 16% each. By contrast, the least number of graduates work in the museum and other fields, which took up 12% together.
+
+
+
+
+##### 无时间改变的柱图转变为饼图
 
 
 
