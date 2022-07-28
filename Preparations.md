@@ -691,27 +691,15 @@ In summary/ To conclude/ To summarize, it xxx.
 
 ![Page 12](image/Preparations/1658810042288.png "Line Chart")
 
-
-
-
-
-
-
-
 ##### 多图题
 
 ![1658976434947](image/Preparations/1658976434947.png "2015.6.27真题")
 
-
 ![1658977162433](image/Preparations/1658977162433.png "2016.3.5")
-
 
 ![1658977728943](image/Preparations/1658977728943.png "2015.10.24")
 
 > Note: More informations hiding in the lines.
-
-
-
 
 ###### 结构
 
@@ -719,14 +707,11 @@ In summary/ To conclude/ To summarize, it xxx.
 
 寻找图与图之间的联系与逻辑
 
-
 先快后慢: which became more gradual / slowed down
 
 先慢后快: which became more significant / speed up
 
-
 #### 饼图 (静图)
-
 
 ##### 静态图语言丰富方法
 
@@ -772,7 +757,6 @@ In summary/ To conclude/ To summarize, it xxx.
 
 ##### 句型
 
-
 1. 简单句
    1. In American people's expenditure, food took up the maximum with/at 44%.
    2. ..... which was nearly a half of the total(44%).
@@ -787,7 +771,6 @@ In summary/ To conclude/ To summarize, it xxx.
    3. In the second place was/is xxx
    4. xxx rank the second
 
-
 ##### 内容
 
 * 最大值
@@ -798,8 +781,6 @@ In summary/ To conclude/ To summarize, it xxx.
 * 计算总值
 * 计算平均值
 
-
-
 ##### Example
 
 ![1658978756323](image/Preparations/1658978756323.png)
@@ -807,23 +788,58 @@ In summary/ To conclude/ To summarize, it xxx.
 1. There is a pie chart which compares the career choices of art graduates.
 2. According to the first pie chart, / As can be seen from the second pie chart/ As/When it comes to xxx.
 
-
 There is a pie chart which compares the career choices of art graduates. Of all the choices, the career of being an artist occupied the most, at a rate of one-third. Working in the advertisement industry is the second popular choice, whose proportion was nearly a quarter. It is followed by the Filming and Designing industries, which show a similar preference at about 15%. Last but not the least, those choices which did not mention on this graph, were about half of the number of the choices to work in the museum, which was the second last choice.
-
 
 > The maximum of arts graduates chooses artists as their occupation, which occupies nearly a third of the total. In the second plate is the number of graduates who want to work in advertising, whose proportion is 9% less than that of artists. In addition, the preference of the graduates selecting film and design is quite similar, constituting 15% and 16% each. By contrast, the least number of graduates work in the museum and other fields, which took up 12% together.
 
-
-
-
 ##### 无时间改变的柱图转变为饼图
-
 
 1. There is a bar chart which compares the preference to different subjects of 60 students in two school.
 2. Majority of students in school A . Second least popular.
 
-
 ## 大作文
+
+#### Vocabulary
+
+##### Part Five 教育类场景词
+
+| ENG                                                                                                                                                    | CHS                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| adapt oneself to the development of                                                                                                                    | 是自己适应...的发展                                                                |
+| scope of knowledge                                                                                                                                     | 知识面                                                                             |
+| narrow the gap between                                                                                                                                 | 缩小了...的鸿沟                                                                    |
+| lighten the burden of                                                                                                                                  | 减轻了...的负担                                                                    |
+| comprehensive knowledge                                                                                                                                | 广博的知识                                                                         |
+| receive education                                                                                                                                      | 接受教育                                                                           |
+| <br />acquire knowledge<br />learn ksills<br />cultivate hobbies<br />develop potentials<br />conduce to mental development                            | 学习的好处<br />学习知识<br />学习技能<br />培养<br />发挥潜力<br />有助于心智发展 |
+| exchange experience                                                                                                                                    | 交流经验                                                                           |
+| exam-oriented education                                                                                                                                | 应试教育                                                                           |
+| education for all-round development                                                                                                                    | 全面发展教育                                                                       |
+| have quick and easy access to something                                                                                                                | 更快地接触到..东西                                                                 |
+| develop our creative mind                                                                                                                              | 培养我们创造性思维                                                                 |
+| fake diplomas                                                                                                                                          | 假文凭                                                                             |
+| parents are obliged to do                                                                                                                              | 父母有责任,义务去做                                                                |
+| renew knowledge<br />enrich knowledge<br />widen horizon<br />inspire interest<br />stimulate interest                                                 | 革新知识<br />丰富知识<br />开阔视野<br />激发兴趣<br />激发兴趣                   |
+| lay a solid foundation for the future                                                                                                                  | 为将来打下坚实的基础                                                               |
+| complusory education                                                                                                                                   | 义务教育                                                                           |
+| keep skills fresh and up-to-date                                                                                                                       | 使得技能可以与时俱进                                                               |
+| widen one's knowledge<br />enlarge one's view <br />broaden one's horizons                                                                             | 拓展知识面<br />拓展知识面<br />拓展知识面                                         |
+| enrich one's social and life experience                                                                                                                | 丰富了社会和生活阅历                                                               |
+| conduce to  academic performance                                                                                                                      | 有助学习表现                                                                       |
+| adversely influence<br />exert adverse/unfavorable influence on <br />emphasis on memorization adversely <br />influences one's academic performance | 负面的影响(动作)<br />对..产生负面影响                                             |
+| primary/elementary school<br />secondary school<br />higher education<br />further education<br />parenting, schooling                                 | 小学<br />中学教育<br />高等教育<br />进修教育                                     |
+| grasp good communication skills                                                                                                                        | 掌握良好的交流技能                                                                 |
+| remove misunderstanding and discrimination                                                                                                             | 消除误解和歧视                                                                     |
+| improve cultural intergration and globalization                                                                                                        | 促进了文化的融合和文化全球化                                                       |
+| cultivate a strong sense of responsibility                                                                                                             | 培养了强烈的责任感                                                                 |
+| promote social skills and competence                                                                                                                   | 提高了社会能力和竞争力                                                             |
+| make contribution to society                                                                                                                          | 对社会做出贡献                                                                     |
+| quality education<br />test-oriented education                                                                                                         | 素质教育<br />应试型教育                                                           |
+| rote learning                                                                                                                                          | 死记硬背                                                                           |
+| minors<br />immature                                                                                                                                   | 未成年人<br />不成熟的                                                             |
+| <br />lack discipline<br />lack persistence<br />discourage critical thinking<br />students stop questoning what they are being taught                 | 学习上的问题<br />缺少约束力<br />缺少毅力<br />打击批判性思维<br />               |
+
+
 
 #### Part 12 混合类题目写作
 
