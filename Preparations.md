@@ -801,6 +801,8 @@ There is a pie chart which compares the career choices of art graduates. Of all 
 
 横看竖看,信息量大的放中间,信息量小的放结尾.
 
+![1658982663109](image/Preparations/1658982663109.png)
+
 ## 大作文
 
 #### Part 12 混合类题目写作
