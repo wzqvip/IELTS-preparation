@@ -819,6 +819,8 @@ There is a pie chart which compares the career choices of art graduates. Of all 
 ##### 无时间改变的柱图转变为饼图
 
 
+1. There is a bar chart which compares the preference to different subjects of 60 students in two school.
+2. Majority of students in school A . Second least popular.
 
 
 ## 大作文
