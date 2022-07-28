@@ -298,6 +298,111 @@ Now, I'm outgoing, and I think it's necessary for girls to learn some defensive 
 >
 > Tai Chi is not only a martial art, but has also been widely acknowledged as being an effective health exercise. Whether Tai Chi is practiced for health, as athletic sport or martial art it takes time, patience and qualitative practice to develop Tai Chi's internal properties. To achieve a high standard in Tai Chi training is a highly complex process.
 
+#### 5. 想送朋友的礼物
+
+Describe a gift you would like to buy for your friend.
+
+What gift you would like to buy
+
+Who you would like to give it to
+
+Why you would like to buy a gift for him/her
+
+And explain why you choose that gift
+
+##### Answer
+
+1.My friend’s birthday is in next month. I’d like to buy a book for him. There is a book called The Wandering Earth. It is a sci-fi novel which is written by Liu Cixin---a famous novelist in China. This book is also my favorite.
+2.I read the book about a year ago. Actually I watched the movie firstly. This movie in that year got a very good hit. Reading the same title novel is popular for young people. So I bought the book and read.
+3.My friend is a sci-fi buff. The book tells a story that takes place in the future. The sun is dying. Human beings are forced to migrate to a new star system. All the countries unite together, with the help of technology and nuclear energy, scientists find a way to give the earth the motivation to fly away from solar system.
+4.I want to buy this book because of its impressive description of the scientific facts and the well-organized plot. Plus, it’s an educational book, from it I have learned some knowledge about universe and something about love, care, responsibility and hope; Besides a sci-fi buff, my friend is a bookworm. So I think it would be a good gift.
+
+A pen, of hero brand.
+
+To my best friend, who was also my classmate in high school.
+
+He helped me a lot. And his handwritting was really beautiful.
+
+Such pen like this, I think he will like it , and aslo the band, hero is a native coumpany. Using it to write chinese character would be fine.
+
+> It is the device which makes possible to note down our thoughts in a piece of paper. The earliest pen were quills, ink brush, etc. The end was generally sharp modification to those wooden pieces or the feathers, which had to be dipped in ink and then written on paper.
+
+> **Pen is a student’s best friend**. It is everything that a student need in order to write what he knows in exam. And this takes them far in life when used properly.
+>
+> Well now there are lots of pen available. It fits every pocket. Modern pen generally have a replaceable refill with a metal nib. Ink pens are also developed now. The costs might be as low as 2 rupees to luxury pens costing crores. The purpose is however same. So it can be well understood how powerful it is. It is rightly said. A pen is mightier than sword.
+
+##### Part3
+
+1. When do people normally send gifts to others?
+2. Do people give gifts or red packets on traditional festivals?
+3. Is it hard to choose a gift?
+4. Will people feel happy when receiving an expensive gift?
+
+#### 6.一件难做的事
+
+Describe a diffcult thing you did.
+
+##### Answer
+
+1. I think there’re many practical skills we’d better have, like cooking, driving and so on. So we can start an independent life better. Today I want to talk about driving.
+2. Mother thinks I won’t have enough time to learn to drive if I study abroad. So she suggests me to learn driving in China. In my country, the only place to learn driving is driving school. I attended driving classes in a driving school near my home.
+3. In my country, we have to pass 4 subjects to get the driving license. The tests are strict. So the passing rate is very low. I had spent nearly half a year on learning it. To be honest, my sense of direction is very poor, I often drove to the opposite side when I practiced. Even after practicing many times of drive backward, I still couldn’t drive the car to the exact place.
+4. I think driving is an indispensable skill for people in modern life. People in big cities often go to work far away from home. More and more people choose to drive to work in recent years. Driving saves them a lot of time. Kids or the old in some families, when they go out, those family members who can drive can take them out more convenient.
+
+参考一：
+
+1) Buy the mascot of Winter Olympic Game; Bing Dwen Dwen;
+2) Had been to many stores; and searched online; at last asked one of my relatives in Beijing to buy in a  **franchised store** .
+3) A furry panda with an ice crystal shell;  The mascot is chubby, cute and lovely; its smile is sweet; very popular;
+4) Due to the pandemic, many workers couldn't go back to the factory to make the mascot, so the shortage of Bing Dwen Dwen is big; when I heard the selling of it was limited, I thought I might couldn't get one. ....
+
+参考二：
+
+1) To buy a book for sb.;
+2) Went to several bookstores; searched online;
+3) Popular; the movie just got a hit;
+4) bought it; sb. was very happy and excited; it was worthy;
+
+##### Part3
+
+1. **What kinds of jobs require people to be confident?**
+
+1) Those jobs that.... need to show up in front of camera/public;
+
+actor; interviewer; host; politican; Confidence can help them to set up a good image to the public...;
+
+2) athlete: Confidence can give them more motivation to compete with others;
+3) salesperson: …can persuade others better;
+4) teacher: …to influence others well;
+
+2. **On what occasions should children be encouraged? Why?**
+
+1) be afraid of doing sth. new;
+2) too shy to do sth.
+3) fail in doing sth.; e.g. learn riding a bike;
+4) do well in sth. ; encourage them to do better;
+
+3. **How do you help children stay focused?**
+
+1) shouldn't interrupt them when they are focusing on doing sth.
+2) give them some rewards when they can stay focused for a long time;
+3) to do the things with them; encouragement; sense of safety;
+4) set an o'clock
+
+4. **What challenges do young people face today?**
+
+1) various exams;
+2) job hunting;
+3) to support a family
+4) to buy a house
+5) to have a baby
+
+environmental problems; resource shortage;
+
+#### 7. 收到特殊蛋糕
+
+Describe a special cake you received from others.
+
 #### 26. 用手机做重要事情(NEW)
 
 ##### Answer
@@ -585,6 +690,37 @@ Over all, ...
 In summary/ To conclude/ To summarize, it xxx.
 
 ![Page 12](image/Preparations/1658810042288.png "Line Chart")
+
+
+
+
+
+
+
+
+##### 多图题
+
+![1658976434947](image/Preparations/1658976434947.png "2015.6.27真题")
+
+
+![1658977162433](image/Preparations/1658977162433.png "2016.3.5")
+
+
+![1658977728943](image/Preparations/1658977728943.png)
+
+> Note: More informations hiding in the lines.
+
+
+
+
+###### 结构
+
+开头段分图描述
+
+寻找图与图之间的联系与逻辑
+
+
+
 
 ## 大作文
 
