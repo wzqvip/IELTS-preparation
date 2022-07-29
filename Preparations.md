@@ -524,10 +524,13 @@ Describe a rule that you don't like
 
 Describe something you received for free.
 
-1) small packs of cosmetics; coupon(代金券);
-2) salesperson;
-3) at the entrance of a shopping mall;
-4) a good way of promoting(促销); can try first and then decide whether to buy; don't need buy ... aimlessly;
+small packs of cosmetics; coupon(代金券);
+
+salesperson;
+
+at the entrance of a shopping mall;
+
+a good way of promoting(促销); can try first and then decide whether to buy; don't need buy ... aimlessly;
 
 
 #### 26. 用手机做重要事情(NEW)
