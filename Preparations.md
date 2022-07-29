@@ -403,11 +403,128 @@ environmental problems; resource shortage;
 
 Describe a special cake you received from others.
 
+
+
+#### 10.印象深刻的课程
+
+Describe a course that impressed you a lot
+
+
+I'm going to talk about the area of biology. I started to learn it when I was at middle school. It was a compulsory subject at that time.
+
+Actually, I started to have interests in biology much earlier than I learning the subject. I ever fed a pet cat and some pet turtles when I was young. In order to feed them well, I learned something from the internet. I thouas interested in biology since then.
+
+In middle school, my biology teacher often showed us animal samples, like rabbit, frog, fish and so on. Sometimes, he took us out of the classroom to observe the ants moving, the birds nesting, the butterflies flying and something like that.
+
+By learning this subject, I knew that humans are not lonely on this planet. With the help of biology lab equipment, could I've seen many animal samples, and observed the cell, the bacteria, and so on. .... 
+
+
+Computer Science
+
+Parents, laptop, CDs cartoon, interested in it.
+
+middle school, our computer science teacher, was a nice kind lady,
+
+She taught us the basic use of the computer, like turning on or shutting down the PC, how to manage files. And the office software, she use it so fast and fluently, that she could make a whole calculated excel in a few minutes, the most important thing is that she was good at teaching, everyone loved her class.
+
+ beside those on textbooks,she told us the what newest technology like, she described the virtual reality, attractive. also she allows us to play the small games on the computer, like mine sweper and the card game. I was deeply attracted by the charming computer, and I think that strengthen the will that I'm going to major in computer science, and actually I did that. Currently I'm studing soft eng, that would own to my cs class and my kind teacher.
+
+#### 11. 有趣的谈话
+
+Describe an interesting discussion you had with your friend.
+
+##### Answer
+
+Starbucks(Green: stock market goes up; star: dreams; bucks: dollars; the statue of liberty 自由女神);
+
+
+I remember a really fascinating conversation I had with my friend years ago. The person who I spoke with was a good friend of mine since when we were little kids. ~~He was studying astronomy at the university, so he was kind of an expert,~~ he was kind of a wiz on everything related to space: stars, black holes that kind of thing.
+
+I don’t know anything about that, one time we went out to my cabin which is kind of a beautiful place. There’s a lake and you can see the the night sky really well at night – you can see all the stars. It’s really quite beautiful, we were on the beach, we were kind of just chilling drinking a few beers and enjoying the really peaceful time.
+
+He started talking about kind of like the history of space which I thought was really interesting because you know I don’t really know anything and he talked about kind of the different stars; how far away they were from our planet; how many planets exist in the universe; how much time until our sun will burn out all these really kind of big things that I don’t know anything about really.
+
+I learned a lot, I gained a lot of wisdom so I thought this was really interesting. I really enjoy spending time with this friend because he’s really knowledgeable in a field and he’s kind of a space buff we could say. Of course, I don’t know anything so I thought it really opened my mind. It really was mind-blowing to me, so it was a really cool conversation that I had with a friend at a very beautiful place.
+
+
+1. Last summer vacation, I had a discussion with my friend about “to go where for vacation”.
+2. Me: To go to some cities in northern China. It’s cool in summer.Friend: to got Nanjing, Shanghai in southern China. The views are attractive. Many historic sites and modern places.... Not as hot as I imagined;
+3. My friend had been there before, he told me that,.......(Nanjing, Shanghai的体验, wax museum)
+4. Through the discussion, I knew more about those attractive places; wanted to try local food.
+
+
+##### Part3
+
+###### 1. When do children normally form their own views?
+
+To be honest, I'm not sure, but I guess it's probably ….about 2 or 3 years old;
+
+to dress what; to eat what; to stay with mother or father;
+
+###### 2. Do children have strong opinions?
+
+  It depends on their personality.
+
+  insisting;
+
+###### 3. Should parents request their kids to obey them?
+
+Should but not always.
+
+Parents: should; their duty to teach kids; help kids to form good habits; to avoid some possible mistakes; to good man;
+
+Parents are not perfect. They may be wrong sometimes.
+
+Kids are individuals who can think independently. Need to be encouraged and respected.
+
+###### 4. In what industries do you think communication is a necessary skill?
+
+1) deal with public or different people;  salesperson; house agent;
+2) hosting; teaching;
+
+
+#### 12. 语言学习
+
+Describe a thing you did to learn another language.
+
+##### Answer
+
+When I was in senior high school, I like to watch Japanese  **animation** , in my spare time. In order to have good viewing, I decide to learn Japanese.
+
+Japanese is the most similar character to Chinese. Actually, it originates from Chinese. You can see that from the characters. In most cases, a Chinese person who doesn't know this language can know 50% of the meaning just from the Japanese characters.
+
+To master a language is not easy. I had planned to learn it with some apps on my smart phone.** But there is a rule in my high school, any kinds of phone, ipad or laptop are not allowed to take to school....**
+
+So I bought a paper Chinese-Japanese dictionary; You know to learn second language is not compulsory senior high school; I didn't have any Japanese teachers to ask for help; the dictionary helped me really a lot. I looked up the new words; and with the example sentences, I learned how to use the words correctly;
+
+Well, to be frank, this dictionary was a big help. You know, Japanese is actually a quite difficult language; although many Japanese characters originate from Chinese, the tone, the grammar and the usage of Japanese can be very complicated, since Japanese uses different words on the same thing in different occasions. Without the help of the dictionary, I might not be able to learn this language.
+
+##### Part 3
+
+###### 1. What diffi
+
+###### Imp
+
+###### Alone/group
+
+###### Best way
+
+
+#### 13. 不喜欢的规则
+
+Describe a rule that you don't like 
+
+1. I want to talk about an item of rule in my senior high school. The rule is that cell phone is not allowed to take to school any time.
+2. To be honest, I don't like this rule. Because people now are living in a time of technology; if people don't keep a mobile phone with them, they seem to be unconnected with the world. I have a sense of this kind of feeling.
+3. don't like; like to socialize; like to use apps on phones to solve problems; it's inconvenient
+4. have to follow; if take a mobile phone to school, … will be taken away by teachers; if …break this rule, … will influence the final credits.
+
+
 #### 26. 用手机做重要事情(NEW)
 
 ##### Answer
 
-Well, I still remember on that day, when my team were participanted in an important competition, we were presenting and displaying our slides. All of a sudden, our laptop went blank, we tried several time to figure out the problem, we tried to restart the computer, took off the battery and place it back again, after several tries, nothing had happened., Time was extremly limited, there's no enough time for us to get another cpmputer. Then, I remembered there's a Chinese soft ware called WPS, which can also display PPT slides on mobile phone, so I download our Slide form qq gruop, and used WPS to . Surprisingly, it worked, and i used the screen sharing to prenent the slides to the judgers, . The rest part of .was quite a success, and we had won the 3rd prize in that competation, my mobile phone played an imp.
+Well, I still remember on that day, when my team were participanted in an important competition, we were presentingl'l'k and displaying our slides. All of a sudden, our laptop went blank, we tried several time to figure out the problem, we tried to restart the computer, took off the battery and place it back again, after several tries, nothing had happened., Time was extremly limited, there's no enough time for us to get another cpmputer. Then, I remembered there's a Chinese soft ware called WPS, which can also display PPT slides on mobile phone, so I download our Slide form qq gruop, and used WPS to . Surprisingly, it worked, and i used the screen sharing to prenent the slides to the judgers, . The rest part of .was quite a success, and we had won the 3rd prize in that competation, my mobile phone played an imp.
 
 ##### Part 3
 
@@ -837,9 +954,7 @@ There is a pie chart which compares the career choices of art graduates. Of all 
 | quality education<br />test-oriented education                                                                                                         | 素质教育<br />应试型教育                                                           |
 | rote learning                                                                                                                                          | 死记硬背                                                                           |
 | minors<br />immature                                                                                                                                   | 未成年人<br />不成熟的                                                             |
-| <br />lack discipline<br />lack persistence<br />discourage critical thinking<br />students stop questoning what they are being taught                 | 学习上的问题<br />缺少约束力<br />缺少毅力<br />打击批判性思维<br />               |
-
-
+| <br />lack discipline<br />lack persistence<br />discourage critical thinking<br />students stop questoning what they are being taught                 | 学习上的问题<br />缺少约束力<br />缺少毅力<br />打击批判性思维                     |
 
 #### Part 12 混合类题目写作
 
