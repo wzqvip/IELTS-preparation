@@ -533,6 +533,8 @@ at the entrance of a shopping mall;
 a good way of promoting(促销); can try first and then decide whether to buy; don't need buy ... aimlessly;
 
 
+
+
 #### 26. 用手机做重要事情(NEW)
 
 ##### Answer
