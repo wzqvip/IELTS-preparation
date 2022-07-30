@@ -403,12 +403,9 @@ environmental problems; resource shortage;
 
 Describe a special cake you received from others.
 
-
-
 #### 10.印象深刻的课程
 
 Describe a course that impressed you a lot
-
 
 I'm going to talk about the area of biology. I started to learn it when I was at middle school. It was a compulsory subject at that time.
 
@@ -416,8 +413,7 @@ Actually, I started to have interests in biology much earlier than I learning th
 
 In middle school, my biology teacher often showed us animal samples, like rabbit, frog, fish and so on. Sometimes, he took us out of the classroom to observe the ants moving, the birds nesting, the butterflies flying and something like that.
 
-By learning this subject, I knew that humans are not lonely on this planet. With the help of biology lab equipment, could I've seen many animal samples, and observed the cell, the bacteria, and so on. .... 
-
+By learning this subject, I knew that humans are not lonely on this planet. With the help of biology lab equipment, could I've seen many animal samples, and observed the cell, the bacteria, and so on. ....
 
 Computer Science
 
@@ -437,7 +433,6 @@ Describe an interesting discussion you had with your friend.
 
 Starbucks(Green: stock market goes up; star: dreams; bucks: dollars; the statue of liberty 自由女神);
 
-
 I remember a really fascinating conversation I had with my friend years ago. The person who I spoke with was a good friend of mine since when we were little kids. ~~He was studying astronomy at the university, so he was kind of an expert,~~ he was kind of a wiz on everything related to space: stars, black holes that kind of thing.
 
 I don’t know anything about that, one time we went out to my cabin which is kind of a beautiful place. There’s a lake and you can see the the night sky really well at night – you can see all the stars. It’s really quite beautiful, we were on the beach, we were kind of just chilling drinking a few beers and enjoying the really peaceful time.
@@ -446,12 +441,10 @@ He started talking about kind of like the history of space which I thought was r
 
 I learned a lot, I gained a lot of wisdom so I thought this was really interesting. I really enjoy spending time with this friend because he’s really knowledgeable in a field and he’s kind of a space buff we could say. Of course, I don’t know anything so I thought it really opened my mind. It really was mind-blowing to me, so it was a really cool conversation that I had with a friend at a very beautiful place.
 
-
 1. Last summer vacation, I had a discussion with my friend about “to go where for vacation”.
 2. Me: To go to some cities in northern China. It’s cool in summer.Friend: to got Nanjing, Shanghai in southern China. The views are attractive. Many historic sites and modern places.... Not as hot as I imagined;
 3. My friend had been there before, he told me that,.......(Nanjing, Shanghai的体验, wax museum)
 4. Through the discussion, I knew more about those attractive places; wanted to try local food.
-
 
 ##### Part3
 
@@ -482,7 +475,6 @@ Kids are individuals who can think independently. Need to be encouraged and resp
 1) deal with public or different people;  salesperson; house agent;
 2) hosting; teaching;
 
-
 #### 12. 语言学习
 
 Describe a thing you did to learn another language.
@@ -509,16 +501,14 @@ Well, to be frank, this dictionary was a big help. You know, Japanese is actuall
 
 ###### Best way
 
-
 #### 13. 不喜欢的规则
 
-Describe a rule that you don't like 
+Describe a rule that you don't like
 
 1. I want to talk about an item of rule in my senior high school. The rule is that cell phone is not allowed to take to school any time.
 2. To be honest, I don't like this rule. Because people now are living in a time of technology; if people don't keep a mobile phone with them, they seem to be unconnected with the world. I have a sense of this kind of feeling.
 3. don't like; like to socialize; like to use apps on phones to solve problems; it's inconvenient
 4. have to follow; if take a mobile phone to school, … will be taken away by teachers; if …break this rule, … will influence the final credits.
-
 
 #### 14. 免费物品
 
@@ -531,9 +521,6 @@ salesperson;
 at the entrance of a shopping mall;
 
 a good way of promoting(促销); can try first and then decide whether to buy; don't need buy ... aimlessly;
-
-
-
 
 #### 26. 用手机做重要事情(NEW)
 
@@ -928,6 +915,46 @@ There is a pie chart which compares the career choices of art graduates. Of all 
 
 1. There is a bar chart which compares the preference to different subjects of 60 students in two school.
 2. Majority of students in school A . Second least popular.
+
+#### 动态双饼图/多饼题
+
+饼上面有时间，注重改变。
+
+> 类似线图的写法,但是饼图注重占比,在描述起点/终点的时候要注意占比,描述一下最大最小值.
+
+1. 年份分段法(适合双饼)
+   上升/下降分类,第一段写占比,第二段写变化趋势
+2. 类别分段法(适合多饼)
+   相同变化趋势分
+
+* in two separate years
+* which illustates how the US spending pattens changed in two separate years.
+* In the second place was (the amount/cost/xxx for)
+* the category/item ~~for which~~
+* Thirty years later, there appeared great changes in the proportion of each item's outlay(花费).
+* More specifically/ In details,
+* gained the greatest/most popularity
+* while the smallest/fewest proportion of
+* , which expericend a increase at 10%
+* rank the first
+* incicate the projection for
+* It is estimated/expected that
+* 
+
+###### Example
+
+> Male, Female, per a chart
+
+The bar chart indicates the percentages of male students getting highest grades in two separate years.
+
+The percentages of male students who got top grades in Science was the highest one in 1990, while that in Arts was the lowest. During the ten years,the percentage of male students  getting top grades in Science and and math had experienced  an evident decline, making them the least one in 2000. In the mean while, that in Arts and Humanities had a significant growth, the percentages had doubled. Thus that in Humanities occupied the most in 2000.
+
+
+###### 结尾:
+
+重复每个饼中的最大值
+
+To sum up, in 1966 American people spent most of there salary purchase food and cars. But 30 years later, most of it expense was distributed to buying cars
 
 ## 大作文
 
