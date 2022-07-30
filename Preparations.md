@@ -947,14 +947,49 @@ There is a pie chart which compares the career choices of art graduates. Of all 
 
 The bar chart indicates the percentages of male students getting highest grades in two separate years.
 
-The percentages of male students who got top grades in Science was the highest one in 1990, while that in Arts was the lowest. During the ten years,the percentage of male students  getting top grades in Science and and math had experienced  an evident decline, making them the least one in 2000. In the mean while, that in Arts and Humanities had a significant growth, the percentages had doubled. Thus that in Humanities occupied the most in 2000.
+The percentage of male students who got top grades in Science was the highest one in 1990, while that in Arts was the lowest. During the ten years, the percentage of male students getting top grades in Science and math had experienced an evident decline, making them the least one in 2000. In the meanwhile, that in Arts and Humanities had a significant growth, the percentages had doubled. Thus that in Humanities occupied the most in 2000.
+
+
+> 横轴为年龄的柱图。 Cutuzens' expenditure in the UK
+
+![1659146864605](image/Preparations/1659146864605.png)
+
+* The people under 30 years old
+* aged between 45 and 60
+* in the age group(45-60)
+* who are aged 45-60
+* in the youngest age group/ the oldest one
+* Similarly/ Likewise
 
 
 ###### 结尾:
 
 重复每个饼中的最大值
 
-To sum up, in 1966 American people spent most of there salary purchase food and cars. But 30 years later, most of it expense was distributed to buying cars
+To sum up, in 1966 American people spent most of there salary purchase food and cars. But 30 years later, most of it expense was distributed to buying cars.
+
+
+#### 复合图
+
+> 一图一段，加开头结尾
+
+![1659147573805](image/Preparations/1659147573805.png)
+
+> demographic 人口的
+>
+> with the largest population = populous
+>
+> triple quadruple
+
+1. 第一段分图描述:
+   动态， How life expectancy change/variations from... and projected ...
+   And the bar chart compares the population size.
+2. According to the (line chart)
+3. As can be seen from the (table)
+   要写明数据来源
+
+*找图与图之间的内在逻辑。*
+
 
 ## 大作文
 
