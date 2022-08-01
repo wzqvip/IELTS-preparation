@@ -554,6 +554,8 @@ receiver may miss the message when he/she is busy with something.
 
 ## 小作文
 
+### sheet
+
 #### 线图
 
 ##### 基本语言
@@ -949,7 +951,6 @@ The bar chart indicates the percentages of male students getting highest grades 
 
 The percentage of male students who got top grades in Science was the highest one in 1990, while that in Arts was the lowest. During the ten years, the percentage of male students getting top grades in Science and math had experienced an evident decline, making them the least one in 2000. In the meanwhile, that in Arts and Humanities had a significant growth, the percentages had doubled. Thus that in Humanities occupied the most in 2000.
 
-
 > 横轴为年龄的柱图。 Cutuzens' expenditure in the UK
 
 ![1659146864605](image/Preparations/1659146864605.png)
@@ -961,13 +962,11 @@ The percentage of male students who got top grades in Science was the highest on
 * in the youngest age group/ the oldest one
 * Similarly/ Likewise
 
-
 ###### 结尾:
 
 重复每个饼中的最大值
 
 To sum up, in 1966 American people spent most of there salary purchase food and cars. But 30 years later, most of it expense was distributed to buying cars.
-
 
 #### 复合图
 
@@ -989,6 +988,71 @@ To sum up, in 1966 American people spent most of there salary purchase food and 
    要写明数据来源
 
 *找图与图之间的内在逻辑。*
+
+
+### map
+
+#### 地图题-方位变迁
+
+
+###### 顺序
+
+* 从左往右
+* 从上往下
+
+###### 改变
+
+* 增加/扩大
+* 减少/缩小
+* 新建扩建
+* 消失
+
+###### 词汇
+
+* 表示方位
+  * A在B的东/西/南/北
+    A is/ lies/ located/ is situated in/ on/ to the east/ west/ south/ north of B
+    (in 表示A在B内部，on表示A和B接壤，to表示A和B 分开)
+    lay/stand/erect
+  * A在B的对过
+    opposite to
+  * A在B的附近
+    beside/ adjacent to
+  * 中心
+    in the center of
+  * 角落
+    in the corner of
+  * a xxx was built, with + n. + included
+* 表示尺寸
+  * 原有事物尺寸上变大/变小
+    The size of the library has been enlarged/halved/ reduced by half
+  * 原有食物在尺寸上增多/减少
+    The number of homes has increased/risen/grown/reduced/decreased/dropped/fallen/doubled/tripled/ quadrupled to xxx.
+  * 原有事物没了
+    The farms completely disappeared/ were removed.
+    建筑demolished / 田野cleared
+  * 原有事物被改为
+    A becoms B
+    A is reconstructed into B
+    A is replaced/ substituted by B = A gives way to B
+  * 新添事物
+    A newly-built road
+    A new car park was built
+    A new IT center has been added to the library
+  * 维持不变
+    remain unchanged
+    still stay/stand/erect there.
+    there is no change happening on ...
+
+
+###### 句型
+
+> 一图一段
+
+
+
+1. In 1780, there was a river flowing from North to South situated/located in the western side of the village called kelsby.
+   Opposite to the river was four pats of farms to the east.(倒装句) / Oposite to which ....
 
 
 ## 大作文
