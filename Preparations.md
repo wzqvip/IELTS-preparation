@@ -1048,11 +1048,22 @@ To sum up, in 1966 American people spent most of there salary purchase food and 
 ###### 句型
 
 > 一图一段
-
-
+>
+> 有开头，不需要结尾
+>
+> The three maps illustrate ow the village of Kelsby changed in 1780, 1860 and 2000.
 
 1. In 1780, there was a river flowing from North to South situated/located in the western side of the village called kelsby.
-   Opposite to the river was four pats of farms to the east.(倒装句) / Oposite to which ....
+   Opposite to the river was four pats of farms to the east.(倒装句).
+   Opposite to which a large expanse of woods lay in the eastern part of the village.
+   And 100 homes were in the Northeastern corner.
+2. 80 years later,there appeared great changes. In details/ More specifically, the number of homes doubled to 200.
+   However, the size of farms and woods was halved.
+   In addition, a new bridge was built/construit/establish/pare over the riber and a road was paved to link the residential area and the bridge.
+3. The year 2000 witnessed another double of the number of homes to 500.
+   The farms and woods completely disapeared, where a/another new read was built to connect the living area and the newly-built schools and sports fields in the South.
+   Several shops were opened on the east bank of the river and a wetland for birds appeared in the south end of the river.
+
 
 
 ## 大作文
