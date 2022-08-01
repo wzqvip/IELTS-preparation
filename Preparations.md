@@ -1065,6 +1065,10 @@ To sum up, in 1966 American people spent most of there salary purchase food and 
    Several shops were opened on the east bank of the river and a wetland for birds appeared in the south end of the river.
 
 
+> 类别分类
+
+![1659325041939](image/Preparations/1659325041939.png)
+
 
 ## 大作文
 
