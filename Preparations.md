@@ -989,11 +989,9 @@ To sum up, in 1966 American people spent most of there salary purchase food and 
 
 *找图与图之间的内在逻辑。*
 
-
 ### map
 
 #### 地图题-方位变迁
-
 
 ###### 顺序
 
@@ -1044,7 +1042,6 @@ To sum up, in 1966 American people spent most of there salary purchase food and 
     still stay/stand/erect there.
     there is no change happening on ...
 
-
 ###### 句型
 
 > 一图一段
@@ -1064,10 +1061,25 @@ To sum up, in 1966 American people spent most of there salary purchase food and 
    The farms and woods completely disapeared, where a/another new read was built to connect the living area and the newly-built schools and sports fields in the South.
    Several shops were opened on the east bank of the river and a wetland for birds appeared in the south end of the river.
 
-
 > 类别分类
 
 ![1659325041939](image/Preparations/1659325041939.png)
+
+### Flow
+
+> 按顺序写
+
+* Firstly/ The first step is to/ The first stage involve collecting glass bottles,
+* Later/Subsequently/Followed by
+* At the same time/ Simulatly
+* Finally
+
+
+1. This diagram illustrates the recycling process of galss bottles. The whole process is a cycle which can be divided into three main stages.
+2. In the first stage, the wasted glass bottles of varying size and shapes are collected at the collection point.
+   Then the collected bottles are trasported by trucks to the glass factory where the glass bottles are washed by high-pressure water and classified according/into different colors.
+3. After being washed/ When the galss bottles are washed. The glass bottles are broken into pieces, which is followed by the burning in furnace. Here the glass pieces are poured in the furnace to be heated under the temperature between 600℃ and 800℃. After being heated, the glass bottles are melted into recycled liquid glass which will be mixed with the new liquid glass to be shaped in glass mould.
+4. Then comes the final stage when
 
 
 ## 大作文
