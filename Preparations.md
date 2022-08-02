@@ -522,6 +522,29 @@ at the entrance of a shopping mall;
 
 a good way of promoting(促销); can try first and then decide whether to buy; don't need buy ... aimlessly;
 
+
+
+#### 16. 生活中离不开的东西
+
+
+##### Part 3
+
+
+###### 4. Postive and negative influences 
+
+###### 4. What do you think influences prople to buy new things?
+
+advertisement    (it's easy to see')
+
+income(high/low) (the most important)
+
+living style like the smart phone
+
+
+#### 17. 童年喜欢的玩具
+
+
+
 #### 26. 用手机做重要事情(NEW)
 
 ##### Answer
@@ -1074,13 +1097,25 @@ To sum up, in 1966 American people spent most of there salary purchase food and 
 * At the same time/ Simulatly
 * Finally
 
-
 1. This diagram illustrates the recycling process of galss bottles. The whole process is a cycle which can be divided into three main stages.
 2. In the first stage, the wasted glass bottles of varying size and shapes are collected at the collection point.
    Then the collected bottles are trasported by trucks to the glass factory where the glass bottles are washed by high-pressure water and classified according/into different colors.
 3. After being washed/ When the galss bottles are washed. The glass bottles are broken into pieces, which is followed by the burning in furnace. Here the glass pieces are poured in the furnace to be heated under the temperature between 600℃ and 800℃. After being heated, the glass bottles are melted into recycled liquid glass which will be mixed with the new liquid glass to be shaped in glass mould.
-4. Then comes the final stage when
+4. Then comes the final stage when the newly produced bottles are filled with liquid and packed.
+   After being sent to the supermarket, the products are ready for sale.
+   At this point, a cycle has been completed and a new cycle will begin.
 
+![1659327519244](image/Preparations/1659327519244.png)
+
+> The flow chart shows the dynamic process of sand dune formation in deserts or on coasts. It involves the interaction between wind and sand.
+>
+> In dry deserts or on coasts there are scattered patches of wet sandwhere sand dune is grounded on. Wind consistently blows from one direction, accumulating dry loose sand particles on wet sand where relatively higher friction of the land prevents sand moving. But with stronger wind forcesthe mobility of sand increases. While the dry sand continue to pile upsome of them move downwind until they reach another wet piece of ground.
+>
+> Even with the force of gentle breeze sand piles on wet land can keep dry grains settle down and hence grow in to dunes.On the lee sidea dune can extend out of the wet ground a few feet due to the shelter of the dune.
+>
+> Due to the direction and speed of winds as well as the area of wet groundsdunes are formed in diverse shapes and sizes.
+
+![1659328577348](image/Preparations/1659328577348.png)
 
 ## 大作文
 
