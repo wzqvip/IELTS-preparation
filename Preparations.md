@@ -522,15 +522,11 @@ at the entrance of a shopping mall;
 
 a good way of promoting(促销); can try first and then decide whether to buy; don't need buy ... aimlessly;
 
-
-
 #### 16. 生活中离不开的东西
-
 
 ##### Part 3
 
-
-###### 4. Postive and negative influences 
+###### 4. Postive and negative influences
 
 ###### 4. What do you think influences prople to buy new things?
 
@@ -540,10 +536,7 @@ income(high/low) (the most important)
 
 living style like the smart phone
 
-
 #### 17. 童年喜欢的玩具
-
-
 
 #### 26. 用手机做重要事情(NEW)
 
@@ -1169,7 +1162,7 @@ To sum up, in 1966 American people spent most of there salary purchase food and 
 
 Currently, there appears a social phenomenon that + 复述题目.
 
-In the following essay, I will explore the reasons.effects of the proble and expain why + 立场.
+In the following essay, I will explore the reasons/effects of the proble and expain why + 立场.
 
 ###### Body: Reason
 
