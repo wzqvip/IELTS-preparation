@@ -638,7 +638,7 @@ receiver may miss the message when he/she is busy with something.
 
 ###### 5. 波动
 
-* fluctuate between ... and ...
+* ***fluctuate*** between ... and ...
 * fluctuation n.
 
 ###### 6. 保持平稳
