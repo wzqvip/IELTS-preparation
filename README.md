@@ -15,3 +15,5 @@
 
 
 #### Lecture Notes in ./""lecture documents"
+
+> 8.5/8.0/6.5/6.0, total: 7.5
